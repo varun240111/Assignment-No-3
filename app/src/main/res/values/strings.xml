@@ -1,0 +1,8 @@
+    <resources>
+        <string name="app_name">Hello World</string>
+        <string name="string1">Welcome</string>
+        <string name="string2">Have a nice day</string>
+        <string name="string3">Goodbye</string>
+        <string name="string4">Enjoy your day...</string>
+        <string name="string5">Thank you so much!!!!</string>
+    </resources>
